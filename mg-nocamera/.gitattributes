@@ -1,0 +1,6 @@
+test/* export-ignore
+scripts/* export-ignore
+obj/blender/* export-ignore
+obj/leeperry/* export-ignore
+obj/texturas/* export-ignore
+*.blend export-ignore

@@ -1,0 +1,7 @@
+browser
+browser_gobj
+Math/test
+*.o
+*.lo
+*~
+nbproject/*
